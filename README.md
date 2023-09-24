@@ -3,7 +3,7 @@
 Código de uma calculadora em Java, será feito uma análise com diversos testes e futuramente adicionado à versão com testes vinculado ao UnitTest
 
 ## Class Calculadora 
-![image](https://github.com/ArthurBechir/JunitTestCalculadora/assets/124618876/19d2b8c4-bf52-4ece-a332-528ee95d7e5a)
+![image](https://cdn.discordapp.com/attachments/1053105326272024586/1155321147139821648/image.png)
 
 ## Class Testes
 ![image](https://github.com/ArthurBechir/JunitTestCalculadora/assets/124618876/11c2c1e6-fbf3-4a65-aec1-eab0d11f0c30)
