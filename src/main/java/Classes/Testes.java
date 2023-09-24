@@ -91,22 +91,22 @@ public class Testes {
         
         // Testes com Divisão
         resultado = calculo.dividir(5, 5);
-        System.out.println("Positivo + Positivo: "+resultado);
+        System.out.println("Positivo / Positivo: "+resultado);
         
         resultado = calculo.dividir(5, -5);
-        System.out.println("Positivo + Negativo: "+resultado);
+        System.out.println("Positivo / Negativo: "+resultado);
         
         resultado = calculo.dividir(-5, 5);
-        System.out.println("Negativo + Positivo: "+resultado);
+        System.out.println("Negativo / Positivo: "+resultado);
         
         resultado = calculo.dividir(-5, -5);
-        System.out.println("Negativo + Negativo: "+resultado);
+        System.out.println("Negativo / Negativo: "+resultado);
         
         resultado = calculo.dividir(0, 5);
-        System.out.println("Zero + Positivo: "+resultado);
+        System.out.println("Zero / Positivo: "+resultado);
         
         resultado = calculo.dividir(0, -5);
-        System.out.println("Zero + Negativo: "+resultado);
+        System.out.println("Zero / Negativo: "+resultado);
         
     }
 }
