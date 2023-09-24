@@ -6,10 +6,10 @@ Código de uma calculadora em Java, será feito uma análise com diversos testes
 ![image](https://cdn.discordapp.com/attachments/1053105326272024586/1155321147139821648/image.png)
 
 ## Class Testes
-![image](https://github.com/ArthurBechir/JunitTestCalculadora/assets/124618876/11c2c1e6-fbf3-4a65-aec1-eab0d11f0c30)
-![image](https://github.com/ArthurBechir/JunitTestCalculadora/assets/124618876/475b73ce-07c5-4eb8-9265-296a05d43b9d)
-![image](https://github.com/ArthurBechir/JunitTestCalculadora/assets/124618876/51eddfca-97e3-43b2-992f-a58ba1fd55ca)
-![image](https://github.com/ArthurBechir/JunitTestCalculadora/assets/124618876/ef565ca3-851e-4055-9833-9fe50645ae3c)
+![image](https://cdn.discordapp.com/attachments/1053105326272024586/1155321409506119690/image.png)
+![image](https://cdn.discordapp.com/attachments/1053105326272024586/1155321512581156884/image.png)
+![image](https://cdn.discordapp.com/attachments/1053105326272024586/1155321554436096050/image.png)
+![image](https://cdn.discordapp.com/attachments/1053105326272024586/1155321598828617738/image.png])
 
 ## Publicação
 https://github.com/ArthurBechir/JunitTestCalculadora
